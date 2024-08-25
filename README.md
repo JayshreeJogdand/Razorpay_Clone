@@ -2,10 +2,10 @@
 
 It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
 I designed this website, while learning Tailwind CSS, from Love Babbar,I was guided step by step, in my journey, and I feel so confident about my skills in Tailwind CSS now.
-And I wish to reflect this website as my mini project, I also have a few collaborators in this project.
-@AryanJadile<br>
-@VaishnaviMhetree<br>
-@samrudhi-26<br>
+And I wish to reflect this website as my mini project, I also have a few collaborators in this project.<br>
+<a href ="https://github.com/AryanJadile"> AryanJadile</a> <br>
+<a href="https://github.com/VaishnaviMhetree">VaishnaviMhetree</a><br>
+<a href="https://github.com/samrudhi-26">samrudhi-26</a><br>
 **This Site is Fully Responsive**
 <br>
 <br>
