@@ -2,7 +2,7 @@
 
 It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
 I designed this website, while learning Tailwind CSS, from Love Babbar,I was guided step by step, in my journey, and I feel so confident about my skills in Tailwind CSS now.
-And I wish to reflect this website as my mini project, I also have a few collaborators in this project.
+And I wish to reflect this website as my mini project, I also have a few collaborators in this project.<br>
 **This Site is Fully Responsive**
 <br>
 <a href ="https://github.com/AryanJadile"> AryanJadile</a> <br>
