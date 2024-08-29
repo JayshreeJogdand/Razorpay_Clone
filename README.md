@@ -1,8 +1,6 @@
  Razorpay Clone
 
-It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
-I designed this website, while learning Tailwind CSS, from Love Babbar,I was guided step by step, in my journey, and I feel so confident about my skills in Tailwind CSS now.
-And I wish to reflect this website as my mini project, I also have a few collaborators in this project.<br>
+This website was created as a mini project to replicate the design of the popular Indian payment gateway, Razorpay, utilizing Tailwind CSS. Throughout the development process, I followed a structured learning path under the guidance of Love Babbar, which greatly enhanced my proficiency in Tailwind CSS. The project involved collaboration with a team of peers, and together, we successfully implemented a design that mirrors the functionality and aesthetics of Razorpay. This project not only showcases my growing expertise in web development but also reflects my ability to work effectively in a team-oriented environment..<br>
 **This Site is Fully Responsive**
 <br>
 <a href ="https://github.com/AryanJadile"> AryanJadile</a> <br>
